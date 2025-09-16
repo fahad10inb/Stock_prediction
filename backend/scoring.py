@@ -23,7 +23,7 @@ load_dotenv()
 '''
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")'''
 
-GEMINI_API_KEY = "AIzaSyDo_j_UJEHRvp3qjDu4O3HuJhtiCrq0N5w"
+GEMINI_API_KEY = "AIXXXXXXXXXXXXXXXXXXXX"
 
 
 genai.configure(api_key=GEMINI_API_KEY)
